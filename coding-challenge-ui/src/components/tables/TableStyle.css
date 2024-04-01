@@ -1,0 +1,51 @@
+.tableContainer {
+  margin-top: 20px;
+  background-color: #fff;
+}
+
+.overdueTable {
+  min-width: 650;
+}
+
+.tableTitle {
+  margin-left: 15px;
+}
+
+.tableHeader {
+  background-color: #f5f7fa;
+}
+
+.tableRowHeader {
+  font-weight: bolder !important;
+  color: gray !important;
+}
+
+.tableContainer .tableBody TableCell,
+.tableContainer .tableBody td {
+  font-weight: bold;
+}
+
+.marketPlaceFlag {
+  width: 2em !important;
+  height: 2em !important;
+  margin-right: 10px;
+}
+
+.overdue {
+  color: red !important;
+}
+
+.pagination > * {
+  justify-content: flex-end;
+  display: flex;
+  background-color: #fff;
+  box-shadow: none;
+}
+
+.tableContainer > .MuiTablePagination-root {
+  border-top: 1px solid #e0e0e0;
+}
+
+.tablePagination {
+  background-color: #f0f0f0;
+}
