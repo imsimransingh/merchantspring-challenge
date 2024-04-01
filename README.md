@@ -1,6 +1,10 @@
 # Note
 Please use Node version 20 ( I have used 20.12.0 during development)
 
+Due to heavy data in Orders.csv, I have fetched data as soon as server runs, and stored it in memory, so that for evey API call it should not take too much time. Please let me know if there is issue while running it, i'll deploy it on cloud.
+
+Please run same commands to run the project & test
+
 
 # Coding Challenge
 ##########
