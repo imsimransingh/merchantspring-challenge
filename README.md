@@ -1,3 +1,7 @@
+# Note
+Please use Node version 20 ( I have used 20.12.0 during development)
+
+
 # Coding Challenge
 ##########
 This coding challenge is designed to assess how you approach and solve a problem that is very similar to the day to day way of working at MerchantSpring. It is based off a real requirement to give you a sense of what the work is like, however it is not real work for our product. It shouldn't take more than a few hours, there are no hidden tricks, please approch this problem as you would if you were releasing it to production.
